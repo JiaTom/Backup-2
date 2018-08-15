@@ -1,0 +1,2 @@
+step: 2,16,32
+dense: 1 to softmax
